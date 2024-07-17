@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bluetometa_device</string>
+    <string name="home">Home</string>
+    <string name="status_disconnected">Status: Disconnected</string>
+    <string name="connect_to_bluetooth">Connect to Bluetooth</string>
+    <string name="bulb_on_off">Bulb ON/OFF</string>
+    <string name="fan_on_off">Fan ON/OFF</string>
+    <string name="bulb_status_off">Bulb Status: OFF</string>
+    <string name="fan_status_off">Fan Status: OFF</string>
+    <string name="room">room</string>
+    <string name="kitchen">kitchen</string>
+</resources>
